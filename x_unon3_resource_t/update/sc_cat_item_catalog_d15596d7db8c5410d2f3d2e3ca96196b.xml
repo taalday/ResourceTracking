@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Internal IT Equipment Purchase">515596d7db8c5410d2f3d2e3ca961963</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>taalday</sys_created_by>
+        <sys_created_on>2020-04-13 20:22:19</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>d15596d7db8c5410d2f3d2e3ca96196b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Internal IT Equipment Purchase</sys_name>
+        <sys_package display_value="Resource Tracking" source="x_unon3_resource_t">31a4b142db845010d2f3d2e3ca9619b4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Resource Tracking">31a4b142db845010d2f3d2e3ca9619b4</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_d15596d7db8c5410d2f3d2e3ca96196b</sys_update_name>
+        <sys_updated_by>taalday</sys_updated_by>
+        <sys_updated_on>2020-04-13 20:22:19</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>
