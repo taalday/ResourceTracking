@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_unon3_resource_t.tracked_equipment_user" name="x_unon3_resource_t.tracked_equipment_user">0dc31293db8c5410d2f3d2e3ca961916</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>taalday</sys_created_by>
+        <sys_created_on>2020-04-13 20:15:28</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>c9c31a57db8c5410d2f3d2e3ca9619cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0dc31293db8c5410d2f3d2e3ca961916</sys_name>
+        <sys_package display_value="Resource Tracking" source="x_unon3_resource_t">31a4b142db845010d2f3d2e3ca9619b4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Resource Tracking">31a4b142db845010d2f3d2e3ca9619b4</sys_scope>
+        <sys_update_name>sys_embedded_help_role_c9c31a57db8c5410d2f3d2e3ca9619cc</sys_update_name>
+        <sys_updated_by>taalday</sys_updated_by>
+        <sys_updated_on>2020-04-13 20:15:28</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
