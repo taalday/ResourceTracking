@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Tracked Equipment</name>
+        <order>100</order>
+        <roles>x_unon3_resource_t.tracked_equipment_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>taalday</sys_created_by>
+        <sys_created_on>2020-04-13 20:15:28</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>09c31a57db8c5410d2f3d2e3ca9619d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tracked Equipment</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Resource Tracking" source="x_unon3_resource_t">31a4b142db845010d2f3d2e3ca9619b4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Resource Tracking">31a4b142db845010d2f3d2e3ca9619b4</sys_scope>
+        <sys_update_name>sys_app_application_09c31a57db8c5410d2f3d2e3ca9619d5</sys_update_name>
+        <sys_updated_by>taalday</sys_updated_by>
+        <sys_updated_on>2020-04-13 20:15:28</sys_updated_on>
+        <title>Tracked Equipment</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Resource Tracking">31a4b142db845010d2f3d2e3ca9619b4</application>
+        <comments/>
+        <file_path/>
+        <instance_id>5c003a8909e809c06999ba291c5ee69a</instance_id>
+        <instance_name>ungitsmdev</instance_name>
+        <name>sys_app_application_09c31a57db8c5410d2f3d2e3ca9619d5</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>Tracked Equipment</name><order>100</order><roles>x_unon3_resource_t.tracked_equipment_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>taalday</sys_created_by><sys_created_on>2020-04-13 20:15:28</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>09c31a57db8c5410d2f3d2e3ca9619d5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Tracked Equipment</sys_name><sys_overrides/><sys_package display_value="Resource Tracking" source="x_unon3_resource_t">31a4b142db845010d2f3d2e3ca9619b4</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Resource Tracking">31a4b142db845010d2f3d2e3ca9619b4</sys_scope><sys_update_name>sys_app_application_09c31a57db8c5410d2f3d2e3ca9619d5</sys_update_name><sys_updated_by>taalday</sys_updated_by><sys_updated_on>2020-04-13 20:15:28</sys_updated_on><title>Tracked Equipment</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>755415485</payload_hash>
+        <record_name>Tracked Equipment</record_name>
+        <reverted_from/>
+        <source>6f583546db845010d2f3d2e3ca9619bd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>taalday</sys_created_by>
+        <sys_created_on>2020-04-13 20:15:28</sys_created_on>
+        <sys_id>89c31a57db8c5410d2f3d2e3ca9619d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171752eba600000001</sys_recorded_at>
+        <sys_updated_by>taalday</sys_updated_by>
+        <sys_updated_on>2020-04-13 20:15:28</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>81c31a57668c5410e569cea71ec894d8</update_guid>
+        <update_guid_history>81c31a57668c5410e569cea71ec894d8:755415485</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 04/14/2020 09:17:41:AM">c7bdf5abdbc89410d2f3d2e3ca961940</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>taalday</sys_created_by>
+        <sys_created_on>2020-04-14 13:17:41</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>448ddda0109848a89ddddbccbcb985e4</sys_id>
+        <sys_metadata>09c31a57db8c5410d2f3d2e3ca9619d5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tracked Equipment</sys_name>
+        <sys_package display_value="Resource Tracking" source="x_unon3_resource_t">31a4b142db845010d2f3d2e3ca9619b4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Resource Tracking">31a4b142db845010d2f3d2e3ca9619b4</sys_scope>
+        <sys_scope_delete display_value="">2edd7ca63ce5493cb1ac2f2ac5a40701</sys_scope_delete>
+        <sys_update_name>sys_app_application_09c31a57db8c5410d2f3d2e3ca9619d5</sys_update_name>
+        <sys_update_version display_value="sys_app_application_09c31a57db8c5410d2f3d2e3ca9619d5">89c31a57db8c5410d2f3d2e3ca9619d8</sys_update_version>
+        <sys_updated_by>taalday</sys_updated_by>
+        <sys_updated_on>2020-04-14 13:17:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

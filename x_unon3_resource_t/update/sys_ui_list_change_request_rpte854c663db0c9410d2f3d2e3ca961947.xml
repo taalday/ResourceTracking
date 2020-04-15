@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="change_request" version="2" view="RPTe854c663db0c9410d2f3d2e3ca961947">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="64548a63db0c9410d2f3d2e3ca961944">de614fabdbcc9410d2f3d2e3ca96195d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>taalday</sys_created_by>
+            <sys_created_on>2020-04-14 18:13:22</sys_created_on>
+            <sys_id>5e614fabdbcc9410d2f3d2e3ca96195e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>taalday</sys_updated_by>
+            <sys_updated_on>2020-04-14 18:13:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="64548a63db0c9410d2f3d2e3ca961944">de614fabdbcc9410d2f3d2e3ca96195d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>taalday</sys_created_by>
+            <sys_created_on>2020-04-14 18:13:22</sys_created_on>
+            <sys_id>de614fabdbcc9410d2f3d2e3ca96195e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>taalday</sys_updated_by>
+            <sys_updated_on>2020-04-14 18:13:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>type</element>
+            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="64548a63db0c9410d2f3d2e3ca961944">de614fabdbcc9410d2f3d2e3ca96195d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>taalday</sys_created_by>
+            <sys_created_on>2020-04-14 18:13:22</sys_created_on>
+            <sys_id>52614fabdbcc9410d2f3d2e3ca96195f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>taalday</sys_updated_by>
+            <sys_updated_on>2020-04-14 18:13:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assignment_group</element>
+            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="64548a63db0c9410d2f3d2e3ca961944">de614fabdbcc9410d2f3d2e3ca96195d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>taalday</sys_created_by>
+            <sys_created_on>2020-04-14 18:13:22</sys_created_on>
+            <sys_id>d2614fabdbcc9410d2f3d2e3ca96195f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>taalday</sys_updated_by>
+            <sys_updated_on>2020-04-14 18:13:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="64548a63db0c9410d2f3d2e3ca961944">de614fabdbcc9410d2f3d2e3ca96195d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>taalday</sys_created_by>
+            <sys_created_on>2020-04-14 18:13:22</sys_created_on>
+            <sys_id>56614fabdbcc9410d2f3d2e3ca96195f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>taalday</sys_updated_by>
+            <sys_updated_on>2020-04-14 18:13:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_covid19_tracking</element>
+            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="64548a63db0c9410d2f3d2e3ca961944">de614fabdbcc9410d2f3d2e3ca96195d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>taalday</sys_created_by>
+            <sys_created_on>2020-04-14 18:13:22</sys_created_on>
+            <sys_id>d6614fabdbcc9410d2f3d2e3ca96195f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>taalday</sys_updated_by>
+            <sys_updated_on>2020-04-14 18:13:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_duration_worked</element>
+            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="64548a63db0c9410d2f3d2e3ca961944">de614fabdbcc9410d2f3d2e3ca96195d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>taalday</sys_created_by>
+            <sys_created_on>2020-04-14 18:13:22</sys_created_on>
+            <sys_id>5a614fabdbcc9410d2f3d2e3ca96195f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>taalday</sys_updated_by>
+            <sys_updated_on>2020-04-14 18:13:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>change_request</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>taalday</sys_created_by>
+            <sys_created_on>2020-04-14 18:13:22</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>de614fabdbcc9410d2f3d2e3ca96195d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>change_request</sys_name>
+            <sys_package display_value="Resource Tracking" source="x_unon3_resource_t">31a4b142db845010d2f3d2e3ca9619b4</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Resource Tracking">31a4b142db845010d2f3d2e3ca9619b4</sys_scope>
+            <sys_update_name>sys_ui_list_change_request_RPTe854c663db0c9410d2f3d2e3ca961947</sys_update_name>
+            <sys_updated_by>taalday</sys_updated_by>
+            <sys_updated_on>2020-04-14 18:13:22</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpte854c663db0c9410d2f3d2e3ca961947" name="RPTe854c663db0c9410d2f3d2e3ca961947">64548a63db0c9410d2f3d2e3ca961944</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
