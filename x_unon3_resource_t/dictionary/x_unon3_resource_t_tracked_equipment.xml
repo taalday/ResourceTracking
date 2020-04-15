@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Tracked Equipment" max_length="40" name="x_unon3_resource_t_tracked_equipment" sizeclass="0" type="collection">
+    <element extends="task" label="Tracked Equipment" max_length="40" name="x_unon3_resource_t_tracked_equipment" type="collection">
         <element label="Date Purchased" max_length="40" name="date_purchased" type="glide_date"/>
         <element label="Equipment Name" max_length="100" name="equipment_name" type="string"/>
+        <element label="Test" max_length="40" name="test" type="string"/>
         <element label="Vendor" max_length="32" name="vendor" reference="core_company" type="reference"/>
     </element>
 </database>
